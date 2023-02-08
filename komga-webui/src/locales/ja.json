@@ -455,7 +455,7 @@
     },
     "server_stop": {
       "button_confirm": "停止",
-      "confirmation_message": "本当に Komga を停止しますか？",
+      "confirmation_message": "本当に UCoin Manga を停止しますか？",
       "dialog_title": "サーバをシャットダウン"
     },
     "shortcut_help": {
@@ -567,7 +567,7 @@
   "login": {
     "create_user_account": "ユーザアカウントを作成",
     "login": "ログイン",
-    "unclaimed_html": "この Komga サーバはまだ有効になっておらず、アクセスするためのユーザアカウントを作成する必要があります。<br><br><strong>メールアドレス</strong>と<strong>パスワード</strong>を選んで<strong>ユーザアカウントの作成</strong>を押してください。"
+    "unclaimed_html": "この UCoin Manga サーバはまだ有効になっておらず、アクセスするためのユーザアカウントを作成する必要があります。<br><br><strong>メールアドレス</strong>と<strong>パスワード</strong>を選んで<strong>ユーザアカウントの作成</strong>を押してください。"
   },
   "media_analysis": {
     "comment": "コメント",
@@ -664,6 +664,6 @@
   "welcome": {
     "add_library": "ライブラリを追加",
     "no_libraries_yet": "まだライブラリが追加されていません！",
-    "welcome_message": "Komga へようこそ"
+    "welcome_message": "UCoin Manga へようこそ"
   }
 }

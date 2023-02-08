@@ -250,7 +250,7 @@
     "book_number": "书号: {name}",
     "book_series": "系列: {name}",
     "button_import": "导入",
-    "comicrack_preambule_html": "您可以导入现有的 ComicRack 阅读列表，其为 <code>.cbl</code>格式。<br>Komga 会试着将你提供的系列和书籍与你库中的相匹配。",
+    "comicrack_preambule_html": "您可以导入现有的 ComicRack 阅读列表，其为 <code>.cbl</code>格式。<br>UCoin Manga 会试着将你提供的系列和书籍与你库中的相匹配。",
     "field_files_label": "阅读列表（.cbl）",
     "import_read_lists": "导入阅读列表",
     "imported_as": "导入为 {name}",

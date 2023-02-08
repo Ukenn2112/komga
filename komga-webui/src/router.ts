@@ -270,7 +270,7 @@ const router = new Router({
 
 router.beforeEach((to, from, next) => {
   if (!['read-book', 'browse-book', 'browse-series'].includes(<string>to.name)) {
-    document.title = 'Komga'
+    document.title = 'UCoin Manga'
   }
 
   if (window.opener !== null &&

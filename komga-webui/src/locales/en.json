@@ -53,8 +53,8 @@
     "button_scan": "Scan",
     "button_select_series": "Select Series",
     "field_import_path": "Import from folder",
-    "info_part1": "This screen lets you import files that are outside your existing libraries. You can only import files into existing Series, in which case Komga will move or copy the files into the directory of the chosen Series.",
-    "info_part2": "If you choose a number for a book, and a book already exists with that number, then you will be able to compare the 2 books. If you decide to import the book, Komga will upgrade the existing book with the new one, effectively replacing the old file with the new.",
+    "info_part1": "This screen lets you import files that are outside your existing libraries. You can only import files into existing Series, in which case UCoin Manga will move or copy the files into the directory of the chosen Series.",
+    "info_part2": "If you choose a number for a book, and a book already exists with that number, then you will be able to compare the 2 books. If you decide to import the book, UCoin Manga will upgrade the existing book with the new one, effectively replacing the old file with the new.",
     "no_files_found": "No files found",
     "notification": {
       "go_to_book": "Go to book",
@@ -253,7 +253,7 @@
     "book_number": "Book number: {name}",
     "book_series": "Series: {name}",
     "button_import": "Import",
-    "comicrack_preambule_html": "You can import existing ComicRack Reading Lists in <code>.cbl</code> format.<br/>Komga will try to match the provided series and book number with series and books in your libraries.",
+    "comicrack_preambule_html": "You can import existing ComicRack Reading Lists in <code>.cbl</code> format.<br/>UCoin Manga will try to match the provided series and book number with series and books in your libraries.",
     "field_files_label": "ComicRack Reading Lists (.cbl)",
     "import_read_lists": "Import Read Lists",
     "imported_as": "Imported as {name}",
@@ -526,7 +526,7 @@
     },
     "server_stop": {
       "button_confirm": "Stop",
-      "confirmation_message": "Are you sure you want to stop Komga?",
+      "confirmation_message": "Are you sure you want to stop UCoin Manga?",
       "dialog_title": "Shut down server"
     },
     "shortcut_help": {
@@ -701,7 +701,7 @@
   "login": {
     "create_user_account": "Create user account",
     "login": "Sign in",
-    "unclaimed_html": "This Komga server is not yet active, you need to create a user account to be able to access it.<br/><br/>Choose an <strong>email</strong> and <strong>password</strong> and click on <strong>Create user account</strong>."
+    "unclaimed_html": "This UCoin Manga server is not yet active, you need to create a user account to be able to access it.<br/><br/>Choose an <strong>email</strong> and <strong>password</strong> and click on <strong>Create user account</strong>."
   },
   "media_analysis": {
     "comment": "Comment",
@@ -841,6 +841,6 @@
   "welcome": {
     "add_library": "Add library",
     "no_libraries_yet": "No libraries have been added yet!",
-    "welcome_message": "Welcome to Komga"
+    "welcome_message": "Welcome to UCoin Manga"
   }
 }
